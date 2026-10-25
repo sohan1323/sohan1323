@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sohan%20Shelar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Linux%20%E2%80%A2%20Security%20Tooling&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Linux%20%E2%80%A2%20Security%20Tooling&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <a href="https://github.com/sohan1323">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=620&lines=Building+lightweight+security+tools;Linux+hardening+%26+threat+detection;Applied+cryptography+with+Python;Always+learning%2C+always+shipping" alt="Typing SVG" />
