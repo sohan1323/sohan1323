@@ -50,36 +50,10 @@ I'm **Sohan Shelar**, a cybersecurity enthusiast from **Pune, India**. I build s
 
 
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/sohan1323/linsanity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohan1323&repo=linsanity&theme=tokyonight&hide_border=true" alt="linsanity"/>
-</a>
-<a href="https://github.com/sohan1323/cryptcheck">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohan1323&repo=cryptcheck&theme=tokyonight&hide_border=true" alt="cryptcheck"/>
-</a>
-<a href="https://github.com/sohan1323/caps">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohan1323&repo=caps&theme=tokyonight&hide_border=true" alt="caps"/>
-</a>
-<a href="https://github.com/sohan1323/fernetrest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohan1323&repo=fernetrest&theme=tokyonight&hide_border=true" alt="fernetrest"/>
-</a>
-
-</div>
 
 <br/>
 
-| Project | Description | Stack |
-|:--|:--|:--:|
-| 🐧 [**linsanity**](https://github.com/sohan1323/linsanity) | Lightweight, zero-dependency security auditing tool for Linux. Parses local identity databases to detect privilege escalation vectors. | `Shell` |
-| 🔑 [**cryptcheck**](https://github.com/sohan1323/cryptcheck) | CLI tool that evaluates password complexity against IAM policies and checks breach exposure via k-Anonymity with the *Have I Been Pwned* API. | `Python` |
-| 🕵️ [**caps**](https://github.com/sohan1323/caps) | **C**ron **A**nd **P**ersistence **S**canner. Zero-dependency threat detection and persistence monitoring for Linux systems. | `Shell` |
-| 🔐 [**fernetrest**](https://github.com/sohan1323/fernetrest) | Authenticated symmetric file encryptor/decryptor for data at rest, deriving 256-bit keys from passwords with PBKDF2-HMAC-SHA256. | `Python` |
-| 📄 [**cheatsheet**](https://github.com/sohan1323/cheatsheet) | A quick-reference collection of commands and notes. | `Docs` |
 
----
 
 ## 📊 GitHub Stats
 
@@ -96,15 +70,7 @@ I'm **Sohan Shelar**, a cybersecurity enthusiast from **Pune, India**. I build s
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohan1323&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
